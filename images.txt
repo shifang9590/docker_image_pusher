@@ -9,4 +9,4 @@
 #jorinvo/prometheus-pushgateway-cleaner:latest
 #foundationdb/fdb-kubernetes-operator:v1.46.0
 #foundationdb/foundationdb-kubernetes-sidecar:7.1.46-1
-registry:last
+registry:latest
