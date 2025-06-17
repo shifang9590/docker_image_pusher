@@ -10,4 +10,5 @@
 #foundationdb/fdb-kubernetes-operator:v1.46.0
 #foundationdb/foundationdb-kubernetes-sidecar:7.1.46-1
 #registry:latest
-foundationdb/foundationdb-kubernetes-sidecar:7.1.38-1
+#foundationdb/foundationdb-kubernetes-sidecar:7.1.38-1
+foundationdb/foundationdb:7.1.38
