@@ -10,4 +10,4 @@
 #foundationdb/fdb-kubernetes-operator:v1.46.0
 #foundationdb/foundationdb-kubernetes-sidecar:7.1.46-1
 #foundationdb/foundationdb-kubernetes-sidecar:7.1.38-1
-apache/doris:ms-4.0.4
+apache/doris:ms-4.0.3
